@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "claim_via": "MOH",
+        "total_claims": 7829,
+        "new_claims": 55,
+        "billed": 311.84,
+        "paid": 7639.13,
+        "errors": 49
+    },
+    {
+        "id": 2,
+        "claim_via": "personal insurance",
+        "total_claims": 600,
+        "new_claims": 77,
+        "billed": 7080.29,
+        "paid": 3765.93,
+        "errors": 76
+    },
+    {
+        "id": 3,
+        "claim_via": "corporate insurance",
+        "total_claims": 8773,
+        "new_claims": 94,
+        "billed": 74.26,
+        "paid": 1514.03,
+        "errors": 98
+    },
+    {
+        "id": 4,
+        "claim_via": "MOH",
+        "total_claims": 8710,
+        "new_claims": 11,
+        "billed": 6642.57,
+        "paid": 7532.80,
+        "errors": 84
+    },
+    {
+        "id": 5,
+        "claim_via": "personal insurance",
+        "total_claims": 9754,
+        "new_claims": 39,
+        "billed": 3363.92,
+        "paid": 3404.78,
+        "errors": 71
+    }
+]
